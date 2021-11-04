@@ -1,5 +1,6 @@
 from bot import Bot
 from getpass import getpass
+import time
 
 def main():
     username = input('Username: ')
